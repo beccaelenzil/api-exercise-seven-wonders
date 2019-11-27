@@ -1,6 +1,4 @@
 # seven-wonders.rb
-
-
 URL = 'https://us1.locationiq.org/v1/search.php'
 KEY = ENV['LOCATION_IQ_API_KEY']
 
